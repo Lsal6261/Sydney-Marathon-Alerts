@@ -1,0 +1,52 @@
+[
+  {
+    "id": "demo0001",
+    "type": "hazard",
+    "lat": -33.8462,
+    "lon": 151.2096,
+    "description": "Barrier has fallen over near the road edge. Keep to the left.",
+    "reported_by": "Runner 114",
+    "created": "2027-08-29T07:12:00",
+    "status": "open"
+  },
+  {
+    "id": "demo0002",
+    "type": "obstruction",
+    "lat": -33.8703,
+    "lon": 151.1993,
+    "description": "Line of cones blocking the left lane.",
+    "reported_by": "Volunteer Mia",
+    "created": "2027-08-29T07:31:00",
+    "status": "open"
+  },
+  {
+    "id": "demo0003",
+    "type": "medical_major",
+    "lat": -33.8958,
+    "lon": 151.2255,
+    "description": "Runner collapsed and is not responding. Please send help.",
+    "reported_by": "Runner 207",
+    "created": "2027-08-29T08:05:00",
+    "status": "open"
+  },
+  {
+    "id": "demo0004",
+    "type": "hazard",
+    "lat": -33.8975,
+    "lon": 151.2420,
+    "description": "Wet, slippery ground around the water station.",
+    "reported_by": "Volunteer Sam",
+    "created": "2027-08-29T08:20:00",
+    "status": "open"
+  },
+  {
+    "id": "demo0005",
+    "type": "medical_minor",
+    "lat": -33.8760,
+    "lon": 151.2115,
+    "description": "Runner with a bad cramp, sitting on the kerb.",
+    "reported_by": "Runner 330",
+    "created": "2027-08-29T08:41:00",
+    "status": "responding"
+  }
+]
